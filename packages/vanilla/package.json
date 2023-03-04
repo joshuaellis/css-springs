@@ -1,0 +1,12 @@
+{
+  "name": "@css-springs/vanilla",
+  "description": "A small library for creating spring easings and keyframes",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Josh Ellis (https://github.com/joshuaellis)",
+  "type": "module",
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@css-springs/tsconfig",
+  "displayName": "TSConfig for the Hadrons library",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Josh Ellis (https://github.com/joshuaellis)",
+  "publishConfig": {
+    "access": "public"
+  }
+}
